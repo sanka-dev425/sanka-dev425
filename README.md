@@ -4,7 +4,7 @@
 
 ---
 
-I am a final-year BSc (Hons) Computing undergraduate specialising 
+I am a  Computing undergraduate specialising 
 in full-stack development, cybersecurity, and AI engineering.
 
 My work sits at the intersection of software engineering and 
