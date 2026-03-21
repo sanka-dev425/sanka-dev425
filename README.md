@@ -39,7 +39,7 @@ I build systems designed to operate at scale.
 | Cybersecurity | SIEM, Ethical Hacking, Digital Forensics, CISSP |
 | AI & ML | NLP, Explainable AI, Machine Learning, IBM Watson |
 | DevOps | Docker, Kubernetes, n8n (In Progress) |
-| AI-Assisted Dev | Claude Code, Cursor, Lovable, Bolt, Replit |
+| AI-Assisted Dev | Claude Code, Cursor, Lovable, Bolt, Replit,Codex |
 
 ---
 
