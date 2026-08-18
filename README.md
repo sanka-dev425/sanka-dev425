@@ -44,6 +44,23 @@ University of Moratuwa.
 
 Full certification record: credly.com/users/saptha-sanka
 
+
+## 🎓 Badges & Certifications
+
+<p align="left">
+  <!-- IBM Applied DevOps Engineering Badge -->
+  <a href="https://www.coursera.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sanka-dev425/goGreen/main/ibm-devops-badge.png" width="130" height="130" alt="IBM Applied DevOps Engineering" />
+  </a>
+
+  <!-- Add your next badge here -->
+  <!-- 
+  <a href="YOUR_SECOND_BADGE_LINK" target="_blank">
+    <img src="YOUR_SECOND_BADGE_IMAGE_URL" width="130" height="130" alt="Second Badge" />
+  </a>
+  -->
+</p>
+
 ---
 
 ## Currently Learning
