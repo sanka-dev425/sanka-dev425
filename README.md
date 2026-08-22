@@ -1,7 +1,9 @@
-<div align="center"> <h1>Hi, I'm Saptha Sanka 👋</h1> <h3>Software Engineering Undergraduate · Sri Lanka</h3> <img src="https://komarev.com/ghpvc/?username=sanka-dev425&style=for-the-badge&color=1a1a2e" alt="Profile views" />
-
-<br/><br/>
-
+<div align="center">
+  <h1>Hi, I'm Saptha Sanka 👋</h1>
+  <h3>Software Engineering Undergraduate · Sri Lanka</h3>
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-112-1a1a2e?style=for-the-badge" alt="Profile views" />
+  <br/><br/>
+  
 <a href="mailto:sapthasanka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/saptha-sanka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://credly.com/users/saptha-sanka"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 
 <br/><br/>
