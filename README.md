@@ -1,14 +1,24 @@
-<div align="center">
-  <h1>Hi, I'm Saptha Sanka 👋</h1>
-  <h3>Software Engineering Undergraduate · Sri Lanka</h3>
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-112-1a1a2e?style=for-the-badge" alt="Profile views" />
-  <br/><br/>
-  
-<a href="mailto:sapthasanka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/saptha-sanka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://credly.com/users/saptha-sanka"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+<a href="https://sanka-dev425.github.io" target="_blank">
+  <img align="right" width="165" src="./avatar.png" alt="Saptha Sanka Gavesh Costa" />
+</a>
+
+# Hi, I'm Saptha Sanka 👋
+### Software Engineering Undergraduate · Sri Lanka
+
+🎓 **BSc (Hons) Computing (Software Engineering)** — Edge Hill University, UK (AIBS)  
+🚀 Building multi-tenant financial SaaS platforms, distributed systems, applied AI & practical cybersecurity.
+
+<br/>
+
+<a href="https://sanka-dev425.github.io" target="_blank"><img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-sanka--dev425.github.io-00e5c0?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio" /></a>
+<a href="https://sanka-dev425.github.io/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_DOWNLOAD_CV-PDF-3b82f6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" /></a>
+<a href="https://linkedin.com/in/saptha-sanka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://credly.com/users/saptha-sanka" target="_blank"><img src="https://img.shields.io/badge/Credly-19_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+<a href="mailto:sapthasanka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Software%20Engineering-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/QA%20%2F%20Test%20Automation-1a1a2e?style=flat-square" /> <img src="https://img.shields.io/badge/AI%20Engineering-1a1a2e?style=flat-square" /> </div> <br/> <hr/> <h2>👋 About</h2> <ul> <li>🎓 BSc (Hons) Computing, Software Engineering — awarded by Edge Hill University, UK, delivered at Asian Institute of Business &amp; Science (AIBS), Sri Lanka <i>(in progress, expected 2026/2027)</i></li> <li>🛠️ Currently building <b>ReconLK</b>, a multi-tenant financial SaaS platform for Sri Lankan SMEs</li> <li>🔍 Exploring QA/test automation and Explainable AI alongside core full-stack development</li> <li>💬 Learn by building end-to-end — from data model to deployed interface</li> </ul> <hr/> <h2>🚀 Featured Projects</h2> <table width="100%"> <tr> <th align="left">Project</th> <th align="left">Description</th> <th align="left">Stack</th> <th align="left">Status</th> </tr> <tr> <td valign="top"><b>ReconLK</b><br/>Multi-Tenant SaaS Financial Platform</td> <td valign="top">Unifies inventory, invoicing, payments, and bank reconciliation for Sri Lankan SMEs, with transaction-level explainability instead of black-box accounting.</td> <td valign="top"><code>React</code> <code>Node.js</code><br/><code>PostgreSQL</code> <code>Supabase</code></td> <td valign="top">🟢 Active<br/><sub>Mar 2026 – Present</sub></td> </tr> <tr> <td valign="top"><b>AI Insurance Recommender</b><br/>Prototype</td> <td valign="top">Multilingual (Sinhala, Tamil, English) recommendation engine for life and health insurance, using NLP and Explainable AI so every recommendation is traceable.</td> <td valign="top"><code>Python</code> <code>NLP</code><br/><code>Explainable AI</code> <code>ML</code></td> <td valign="top">🔵 Prototype</td> </tr> </table>
+`Full-Stack Architecture` · `Distributed Systems` · `Applied AI & Vision` · `DevOps CI/CD` · `Security & QA` <br/> <hr/> <h2>👋 About</h2> <ul> <li>🎓 BSc (Hons) Computing, Software Engineering — awarded by Edge Hill University, UK, delivered at Asian Institute of Business &amp; Science (AIBS), Sri Lanka <i>(in progress, expected 2026/2027)</i></li> <li>🛠️ Currently building <b>ReconLK</b>, a multi-tenant financial SaaS platform for Sri Lankan SMEs</li> <li>🔍 Exploring QA/test automation and Explainable AI alongside core full-stack development</li> <li>💬 Learn by building end-to-end — from data model to deployed interface</li> </ul> <hr/> <h2>🚀 Featured Projects</h2> <table width="100%"> <tr> <th align="left">Project</th> <th align="left">Description</th> <th align="left">Stack</th> <th align="left">Status</th> </tr> <tr> <td valign="top"><b>ReconLK</b><br/>Multi-Tenant SaaS Financial Platform</td> <td valign="top">Unifies inventory, invoicing, payments, and bank reconciliation for Sri Lankan SMEs, with transaction-level explainability instead of black-box accounting.</td> <td valign="top"><code>React</code> <code>Node.js</code><br/><code>PostgreSQL</code> <code>Supabase</code></td> <td valign="top">🟢 Active<br/><sub>Mar 2026 – Present</sub></td> </tr> <tr> <td valign="top"><b>AI Insurance Recommender</b><br/>Prototype</td> <td valign="top">Multilingual (Sinhala, Tamil, English) recommendation engine for life and health insurance, using NLP and Explainable AI so every recommendation is traceable.</td> <td valign="top"><code>Python</code> <code>NLP</code><br/><code>Explainable AI</code> <code>ML</code></td> <td valign="top">🔵 Prototype</td> </tr> </table>
 
 
 
