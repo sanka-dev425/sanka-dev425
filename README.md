@@ -5,7 +5,6 @@
 # Hi, I'm Saptha Sanka 👋
 ### Software Engineering Undergraduate · Sri Lanka
 
-🎓 **BSc (Hons) Computing (Software Engineering)** — Edge Hill University, UK (AIBS)  
 🚀 Building multi-tenant financial SaaS platforms, distributed systems, applied AI & practical cybersecurity.
 
 <br/>
